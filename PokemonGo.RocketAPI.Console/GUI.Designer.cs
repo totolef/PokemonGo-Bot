@@ -888,7 +888,7 @@
             this.label24.Name = "label24";
             this.label24.Size = new System.Drawing.Size(40, 13);
             this.label24.TabIndex = 6;
-            this.label24.Text = "miliSec";
+            this.label24.Text = "Sec";
             // 
             // label23
             // 
